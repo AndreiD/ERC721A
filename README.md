@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT -->!
 
 ## About The Project
 
